@@ -1,4 +1,7 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# EXPERIMENT NO: 6
+
+# DATE: 
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
